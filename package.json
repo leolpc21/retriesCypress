@@ -4,7 +4,7 @@
   "description": "Cypress retries validation",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run --record --key 6abc602a-f462-4335-9305-d6f45a2ffb90"
+    "test": "npx cypress run --record"
   },
   "keywords": [
     "cypress",
